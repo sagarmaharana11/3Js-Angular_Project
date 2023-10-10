@@ -1,7 +1,8 @@
 # AngularThreejsDemo
 
-![Angular Three.js Demo](https://your-image-url-here.com)
+Programming Tools: Angular and Three.js
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="100" alt="Angular Logo"/> <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="100" alt="Three.js Logo"/>
 
 https://github.com/sagarmaharana11/3Js-Angular_Project/assets/84629279/1603c047-65f0-4c48-96fa-2255da326ec6
 
